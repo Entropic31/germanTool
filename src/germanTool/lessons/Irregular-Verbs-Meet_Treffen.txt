@@ -1,0 +1,9 @@
+ich treffe;I meet
+er trifft;he meets
+wir treffen;we meet
+ich traf;I met
+er traf;he met
+wir trafen;we met
+ich habe getroffen;I have met
+er hat getroffen;he has met
+wir haben getroffen;we have met
